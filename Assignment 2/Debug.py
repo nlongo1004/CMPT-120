@@ -7,6 +7,7 @@ def main():
     name = input("your name is? ")
     print("Hello, ", name)
 
+
     #this isn't printing anything :( so sad. what's wrong with her? Why she not printing out?
     color = input("what's your favorite color? ")
     print("My favorite color is", color)

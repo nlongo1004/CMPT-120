@@ -7,7 +7,7 @@
 def main():
     # 11 results in a logic error
 
-    num = 10
+    num = 11
     if num > 12:
         print(num, "is greater than 12")
     elif num > 11:

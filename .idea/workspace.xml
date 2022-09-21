@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="803ba4cd-2e60-4c8e-b8ab-b0b67601dd8e" name="Changes" comment="I finished the debug file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2.5/Debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/Debug.py" afterDir="false" />
+    <list default="true" id="803ba4cd-2e60-4c8e-b8ab-b0b67601dd8e" name="Changes" comment="good">
+      <change beforePath="$PROJECT_DIR$/Assignment 2.5/double_int_list_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/double_int_list_practice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663246857599</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="good">
+      <created>1663774186017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663774186017</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +156,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I finished the debug file" />
-    <option name="LAST_COMMIT_MESSAGE" value="I finished the debug file" />
+    <MESSAGE value="good" />
+    <option name="LAST_COMMIT_MESSAGE" value="good" />
   </component>
 </project>

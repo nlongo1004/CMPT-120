@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="803ba4cd-2e60-4c8e-b8ab-b0b67601dd8e" name="Changes" comment="I finished the debug file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment 2/if_else_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2/if_else_practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment 2.5/Debug.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/Debug.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663243048741</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="I finished the debug file">
+      <created>1663246857599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663246857599</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

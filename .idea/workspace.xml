@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="803ba4cd-2e60-4c8e-b8ab-b0b67601dd8e" name="Changes" comment="good">
-      <change beforePath="$PROJECT_DIR$/Assignment 2.5/if_else_sign_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment 2.5/if_else_sign_practice.py" afterDir="false" />
-    </list>
+    <list default="true" id="803ba4cd-2e60-4c8e-b8ab-b0b67601dd8e" name="Changes" comment="good" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,7 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663774503190</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="good">
+      <created>1663774987873</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663774987873</updated>
+    </task>
+    <task id="LOCAL-00007" summary="good">
+      <created>1663774993844</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1663774993844</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

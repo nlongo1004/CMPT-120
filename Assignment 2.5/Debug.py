@@ -24,6 +24,8 @@ def main():
         print("?")
     elif name == "Nicholas":
         print("You got it!")
+    else:
+        print("Wrong.")
     
     
     #we're gonna check if a user input number is even

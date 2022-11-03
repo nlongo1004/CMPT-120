@@ -8,7 +8,7 @@ import random
 
 def bust(num1, num2, num3):
     sum = num1 + num2 + num3
-    if num1 == 11 or num2 == 11 or num3 == 11:
+    if (num1 == 11 or num2 == 11 or num3 == 11) and sum > 21:
         return sum - 10
     elif sum <= 21:
         return sum
